@@ -1,0 +1,271 @@
+<html>
+    <head>
+        <meta name="viewport"content="with=device-width,initial-scale=1.0">
+        <title>Oceanside Hotel </title>
+        <link rel="stylesheet" href=style.css>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/fontawesome.min.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+
+    <body>
+        <section id="banner">
+            <div class="banner-text">
+                <h1>Beachview resort</h1>
+                <p>Home Away from Home</p>
+                <div class="banner-btn">
+                    <a href="#"><span></span>Visit for more information</a>
+
+                </div>
+            </div>
+        </section>
+        <div id="sideNav">
+            <nav>
+            <ul>
+                 <li><a href="#banner">HOME</a></li>
+                <li><a href="#About">ABOUT</a></li>
+                <li><a href="#SERVICE">SERVICES</a></li>
+                <li><a href="#room">ROOMS</a></li>
+                <li><a href="#Activity">ACTIVITIES</a></li>
+                <li><a href="#footer">CONTACTS</a></li>
+            </ul>
+            </nav>
+        </div>
+        
+        <div id="menuBtn">
+            <img src="menu.png" id="menu">
+        
+        </div>
+
+        <!--About-->
+        <section id="About">
+            <div class="title-text">
+                <p>ABOUT</p>
+                <h1> Why Choose Us</h1>
+
+            </div>
+            <div class="About-box">
+                <div class="Abouts">
+                    <h1>Grand Opening</h1>
+                    <div class="Abouts-desc">
+                        <div class="Abouts-icon"><div></div>
+                            <div class="Abouts-text">
+                                <p> Oceanside residences was officially opened on the 15th of june in the year 2015.
+                                    As the years go by it has gained popularity and found itself as one of the 5 star hotels in Kenya
+                                </p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="Abouts-img">
+                    <img src="pexels-mutecevvil-24023467.jpg" >
+            </div>
+
+        </section>
+        <!--SERVICES-->
+
+        <section id="SERVICE">
+            <div class="title-text">
+                <p>SERVICES</p>
+                <h1> We provide Better</h1>
+
+            </div>
+            <div class="service-box">
+                <div class="single-service">
+                    <img src="massage.webp">
+                    <div class="overlay"></div>
+                    <div class="service-desc">
+                        <h3>Massage</h3>
+                        <hr>
+                        <p> Visit our palour for the best Massage services from our massage professionals</p>                  
+                    </div>
+                </div>
+                <div class="single-service">
+                    <img src="swimmming.jpeg">
+                    <div class="overlay"></div>
+                    <div class="service-desc">
+                        <h3>Swimmming</h3>
+                        <hr>
+                        <p>Swimming is also available for all ages and opened 24hrs</p>
+                    </div>
+                </div>
+                <div class="single-service">
+                    <img src="pexels-asadphoto-169197.jpg" >
+                    <div class="overlay"></div>
+                    <div class="service-desc">
+                        <h3>Wedding grounds</h3>
+                        <hr>
+                        <p>We have one of the best Wedding grounds with a Beachview</p>
+
+                    </div>
+                </div>
+                <div class="single-service">
+                    <img src="pexels-cottonbro-3419692.jpg" >
+                    <div class="overlay"></div>
+                    <div class="service-desc">
+                        <h3>Suprises</h3>
+                        <hr>
+                        <p>Come suprise your loved ones with as and leave them feeling special</p>
+
+                    </div>
+
+                    
+                </div>
+                
+            </div>
+
+        </section>
+        <!--room-->
+        <section id="room">
+            <div class="title-text">
+                <p>ROOMS</p>
+                <h1> Categories of ROOMS</h1>
+            </div>
+            <div class="room-row">
+                <div class="room-col">
+                    <div class="user">
+                        <img src="pexels-rana-matloob-hussain-733235258-26886880 (1).jpg" >
+                    
+                    </div>
+                    <p>We have various rooms for our clients
+                       ONE IS THE PREMIUM ROOM IT HAS A SITING  AREA AND A ENSUITE ROOMS
+                    </p>
+                    
+                </div>
+                <div class="room-col">
+                    <div class="user">
+                        <img src="pexels-leorossatti-2598638.jpg">
+                    
+                    </div>
+                <p>Beachview room <br> 
+                    <hr>
+                    <p>This is one of the most prefered rooms by our geusts it has a nice beach view and mice sunset views
+                </p>
+                    </div>
+                <div class="room-col">
+                    <div class="user">
+                        <img src="pexels-pixabay-164595.jpg">
+                    
+                    </div>
+                <p>Studio room <br>
+                    <hr>
+                    <p>The studio rooms have a 6 by 6 bed and a bathroom and as well as a mini fridge</p>
+                    </div>
+            </div>
+            
+
+        </section>
+
+        <!--Activity-->
+
+        <section id="Activity">
+            <div class="title-text">
+                <p>ACTIVITIES</p>
+                <h1> Activities we have</h1>
+            </div>
+            <div class="Activity-row">
+                <div class="Activity-col">
+                    <div class="ACTIVITIES">
+                        <img src="jetski.jpeg" >
+                    
+                    </div>
+                    <p>Jetski <br> <p></p>
+                        <hr>
+                        <p>We offer Jetski services for interested customers at an extra cost
+                    </p>
+                    
+                </div>
+                <div class="Activity-col">
+                    <div class="ACTIVITIES">
+                        <img src="soccer">
+                    
+                    </div>
+                <p>Beach soccer<br> 
+                    <hr>
+                    <p> Beach soccer is also available from 4pm and it is open for all who are interested in playing
+                </p>
+                    </div>
+                    <div class="Activity-col">
+                        <div class="ACTIVITIES">
+                        <img src="pexels-hungtran-3699434.jpg">
+                    
+                    </div>
+                <p> Deep Sea tour <br>
+                    <hr>
+                    <p> Deep sea tours are always available when the ocean tides are not that high and it has an extra cost</p>
+                    </div>
+            </div>
+
+
+        </section>
+         
+        <!--footer-->
+        <section id="footer">
+            <div class="title-text">
+                <p>CONTACTS</p>
+                <h1>Contact us Today or visit our offices</h1>
+                
+            </div>
+            <div class="footer-row">
+                <div class="footer-left">
+                    <h1>Opening hours</h1>
+                <p>Monday to Friday - 9am to 9pm</p>
+                <p>Saturday - 9am to 12pm</p>
+                <p>Sunday - closed</p>
+                </div>
+            
+                    
+                <div class="footer-right">
+                    <h1>Get in touch</h1>
+                    <p>#30 Tanzania,xyz city Y </p>
+                    <p>Oceanside@website.com</p>
+                    <p>+255 348500284</p>
+                    
+                </div>
+                
+
+
+
+                
+
+
+              
+
+            </div>
+
+        </section>
+
+
+
+
+
+
+        <script>
+         var menuBtn = document.getElementById("menuBtn")
+         var sideNav = document.getElementById("sideNav")
+         var menu = document.getElementById("menu")
+         sideNav.style.right = "-250px";
+         menuBtn.onclick = function(){
+            if(sideNav.style.right == '-250px'){
+                sideNav.style.right = '0';
+                menu.src = "close.png";
+            }
+            else{
+                sideNav.style.right = "-250px";
+                menu.src = "menu.png";
+            }
+
+         }
+
+         var scroll = new SmoothScroll('a[href*="#"]', {
+	speed: 1000,
+	speedAsDuration: true
+});
+        </script>
+
+
+    
+    </body>
+</html>
